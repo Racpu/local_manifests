@@ -23,6 +23,7 @@
 
   <!--Custom-->
   <project path="packages/apps/CMUpdater" name="racpu/android_packages_apps_CMUpdater" revision="cm-14.1" />
+  <project path="pixel" name="racpu/pixel" revision="cm-14.1" />
 
   <!-- Track ThemeInterfacer -->
   <project path="packages/services/ThemeInterfacer" name="substratum/interfacer" remote="github" revision="n-rootless" />
